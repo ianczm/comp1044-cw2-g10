@@ -1,4 +1,6 @@
-<?php  include('php_code.php'); ?>
+<!-- please do not use this file -->
+
+<!-- <?php  include('php_code.php'); ?>
 <?php 
 	if (isset($_GET['edit'])) {
 		$actor_id = $_GET['edit'];
@@ -13,14 +15,15 @@
 			$last_update = $n['last_update'];			
 		}
 	}
-?>
+?> -->
 <!DOCTYPE html>
 <html>
 <head>
+	<meta http-equiv="refresh" content="0; url=https://ianczm.github.io/comp1044-cw2-g10/COMP1044.php" />
 	<title>actor: CReate, Update, Delete PHP MySQL</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<!-- <body>
 <?php if (isset($_SESSION['message'])): ?>
 	<div class="msg">
 		<?php 
@@ -86,5 +89,5 @@
 		</div>
 
 	</form>
-</body>
+</body> -->
 </html>
