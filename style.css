@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table .btnedit {
+    color: lightsalmon;
+    cursor: pointer;
+}
+
+div .table-data {
+    font-size: .8em;
+}
+
+#control {
+    margin: 2em auto;
+}
