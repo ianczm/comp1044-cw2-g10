@@ -1,4 +1,4 @@
-<!-- please do not use this file -->
+<!-- please do not use this file, use COMP1044.php instead -->
 
 <!-- <?php  include('php_code.php'); ?>
 <?php 
